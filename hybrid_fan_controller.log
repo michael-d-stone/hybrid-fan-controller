@@ -1,0 +1,95 @@
+sh: 1: sysctl: not found
+2022-04-20 16:26:30: Unexpected CPU Temp (0).
+2022-04-20 16:26:30: Assuming worst-case and going high.
+2022-04-20 16:26:30: CPU Temp: 0 >= 62, Overiding HD fan zone to 100%, 
+sh: 1: camcontrol: not found
+2022-04-20 16:26:30: Maximum HD Temperature: 0
+2022-04-20 16:26:30: Drive temperature (0) invalid. going to 100%
+sh: 1: sysctl: not found
+2022-04-20 16:26:31: Unexpected CPU Temp (0).
+2022-04-20 16:26:31: Assuming worst-case and going high.
+sh: 1: sysctl: not found
+2022-04-20 16:26:32: Unexpected CPU Temp (0).
+2022-04-20 16:26:32: Assuming worst-case and going high.
+sh: 1: sysctl: not found
+2022-04-20 16:26:33: Unexpected CPU Temp (0).
+2022-04-20 16:26:33: Assuming worst-case and going high.
+sh: 1: sysctl: not found
+2022-04-20 16:26:34: Unexpected CPU Temp (0).
+2022-04-20 16:26:34: Assuming worst-case and going high.
+sh: 1: sysctl: not found
+2022-04-20 16:26:35: Unexpected CPU Temp (0).
+2022-04-20 16:26:35: Assuming worst-case and going high.
+sh: 1: sysctl: not found
+2022-04-20 16:26:36: Unexpected CPU Temp (0).
+2022-04-20 16:26:36: Assuming worst-case and going high.
+sh: 1: sysctl: not found
+2022-04-20 16:26:37: Unexpected CPU Temp (0).
+2022-04-20 16:26:37: Assuming worst-case and going high.
+sh: 1: sysctl: not found
+2022-04-20 16:26:38: Unexpected CPU Temp (0).
+2022-04-20 16:26:38: Assuming worst-case and going high.
+sh: 1: sysctl: not found
+2022-04-20 16:26:39: Unexpected CPU Temp (0).
+2022-04-20 16:26:39: Assuming worst-case and going high.
+sh: 1: sysctl: not found
+2022-04-20 16:26:40: Unexpected CPU Temp (0).
+2022-04-20 16:26:40: Assuming worst-case and going high.
+sh: 1: sysctl: not found
+2022-04-20 16:26:41: Unexpected CPU Temp (0).
+2022-04-20 16:26:41: Assuming worst-case and going high.
+sh: 1: /usr/local/bin/ipmitool: not found
+sh: 1: /usr/local/bin/ipmitool: not found
+2022-04-20 16:26:41: CPU fan speed should be high, but  < 1360.
+2022-04-20 16:26:41: HD fan speed should be high, but  < 1120.
+sh: 1: sysctl: not found
+2022-04-20 16:26:47: Unexpected CPU Temp (0).
+2022-04-20 16:26:47: Assuming worst-case and going high.
+sh: 1: sysctl: not found
+2022-04-20 16:26:48: Unexpected CPU Temp (0).
+2022-04-20 16:26:48: Assuming worst-case and going high.
+sh: 1: sysctl: not found
+2022-04-20 16:26:49: Unexpected CPU Temp (0).
+2022-04-20 16:26:49: Assuming worst-case and going high.
+sh: 1: sysctl: not found
+2022-04-20 16:26:50: Unexpected CPU Temp (0).
+2022-04-20 16:26:50: Assuming worst-case and going high.
+sh: 1: sysctl: not found
+2022-04-20 16:26:51: Unexpected CPU Temp (0).
+2022-04-20 16:26:51: Assuming worst-case and going high.
+sh: 1: sysctl: not found
+2022-04-20 16:26:52: Unexpected CPU Temp (0).
+2022-04-20 16:26:52: Assuming worst-case and going high.
+sh: 1: sysctl: not found
+2022-04-20 16:26:53: Unexpected CPU Temp (0).
+2022-04-20 16:26:53: Assuming worst-case and going high.
+sh: 1: sysctl: not found
+2022-04-20 16:26:54: Unexpected CPU Temp (0).
+2022-04-20 16:26:54: Assuming worst-case and going high.
+sh: 1: sysctl: not found
+2022-04-20 16:26:55: Unexpected CPU Temp (0).
+2022-04-20 16:26:55: Assuming worst-case and going high.
+sh: 1: sysctl: not found
+2022-04-20 16:26:56: Unexpected CPU Temp (0).
+2022-04-20 16:26:56: Assuming worst-case and going high.
+sh: 1: sysctl: not found
+2022-04-20 16:26:57: Unexpected CPU Temp (0).
+2022-04-20 16:26:57: Assuming worst-case and going high.
+sh: 1: /usr/local/bin/ipmitool: not found
+sh: 1: /usr/local/bin/ipmitool: not found
+2022-04-20 16:26:57: CPU fan speed should be high, but  < 1360.
+2022-04-20 16:26:57: HD fan speed should be high, but  < 1120.
+2022-04-20 16:27:02: Resetting BMC
+sh: 1: sysctl: not found
+2022-04-20 16:27:03: Unexpected CPU Temp (0).
+2022-04-20 16:27:03: Assuming worst-case and going high.
+sh: 1: sysctl: not found
+2022-04-20 16:27:04: Unexpected CPU Temp (0).
+2022-04-20 16:27:04: Assuming worst-case and going high.
+sh: 1: sysctl: not found
+2022-04-20 16:27:05: Unexpected CPU Temp (0).
+2022-04-20 16:27:05: Assuming worst-case and going high.
+sh: 1: sysctl: not found
+2022-04-20 16:27:06: Unexpected CPU Temp (0).
+2022-04-20 16:27:06: Assuming worst-case and going high.
+sh: 1: sysctl: not found
